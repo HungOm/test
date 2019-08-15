@@ -1,0 +1,13 @@
+{incoming_order:
+   { order_id:1,
+    foods:{
+    [{food_id:1},{food_quantity:2}],
+    [food_id:4,food_quantity:2}]
+    },
+   { order_id:2,
+    foods:{
+    [{food_id:3},{food_quantity:1}],
+    [food_id:1,food_quantity:5}]
+    }
+
+}
